@@ -1,0 +1,5 @@
+#ifndef STAGE1_H_INCLUDED
+#define STAGE1_H_INCLUDED
+
+
+#endif // STAGE1_H_INCLUDED
